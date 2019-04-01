@@ -1,0 +1,4 @@
+.git
+.gitlab-ci.yml
+exclude.txt
+*.tar.gz
