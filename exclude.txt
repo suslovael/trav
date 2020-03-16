@@ -1,4 +1,6 @@
-.git
+dfdsfs
 .gitlab-ci.yml
 exclude.txt
 *.tar.gz
+fdjkfdofjofjds
+dfdkjfkdj
