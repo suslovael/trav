@@ -13,7 +13,7 @@ Eigenschaften können auch in einfacher Freundschaften sein, aber nicht
 alle Zusammen. I denke, dass diese Eigenschaften sehr wichtig für die
 Menschen und ihre Gesundheit sind.
 
-neue
+neue Start
 
 Warum möchten Menschen heiraten? Natürlich möchten Menschen ein gutes
 gemeinsames Haushalt haben. Aber bin ich nicht sicher, dass für perfekte
