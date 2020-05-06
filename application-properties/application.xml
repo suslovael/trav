@@ -1,0 +1,26 @@
+<git-hooks>
+        <hook>
+          <name>pre-commit</name>
+          <size>430 B</size>
+          <executable>true</executable>
+          <callbacks>
+            <callback>
+              <name>20_bitbucket_callback</name>
+              <size>416 B</size>
+              <executable>true</executable>
+            </callback>
+          </callbacks>
+        </hook>
+        <hook>
+          <name>post-commit</name>
+          <size>432 B</size>
+          <executable>true</executable>
+          <callbacks>
+            <callback>
+              <name>20_bitbucket_callback</name>
+              <size>418 B</size>
+              <executable>true</executable>
+            </callback>
+          </callbacks>
+        </hook>
+      </git-hooks>

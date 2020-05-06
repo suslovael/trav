@@ -1,17 +1,19 @@
 ---
-subtitle: 'Gut oder schlacht?'
+subtitle: 'Gut oder *schlecht*?'
 title: Thema Ehe
 ---
 
-Elena Gette - 27. April 2020
+Elena Gette (Suslova) - 29 aprile 2020
 
-I möchte über eine sehr wichtige heutzutage Thema reden. Was ist die
-Ehe? Für mich die Ehe ist ein Freundschaft die ist ein bisschen mehr als
-Freundschaft mit alle andere. Ehe ist ein Institut wo findet mann
-Unterstützung, Verständnis und natürlich Liebe. Alle aufgeführt
-Eigenschaften können auch in einfacher Freundschaften sein, aber nicht
-alle Zusammen. I denke, dass diese Eigenschaften sehr wichtig für die
-Menschen und ihre Gesundheit sind.
+Elena
+
+> I *möchte* über eine [seh]{.underline}r wichtige heutzutage Thema
+> reden. Was ist die Ehe? Für mich die Ehe ist ein Freundschaft die ist
+> ein bisschen mehr als Freundschaft mit alle andere. Ehe ist ein
+> Institut wo findet mann Unterstützung, Verständnis und natürlich
+> Liebe. Alle aufgeführt Eigenschaften können auch in einfacher
+> Freundschaften sein, aber nicht alle Zusammen. I denke, dass diese
+> Eigenschaften sehr wichtig für die Menschen und ihre Gesundheit sind.
 
 ein neuer *Start* beginnt
 
